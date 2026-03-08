@@ -2,9 +2,7 @@
 
 🚀 **Desenvolvedor Júnior | Python & PHP** 🇧🇷 
 
-Desenvolvedor focado em construir **produtos escaláveis**, **plataformas SaaS** e sistemas web de alta performance. Busco constantemente aplicar as melhores práticas de **System Design**, código limpo e soluções voltadas para o mercado.
-
-Atualmente, dedico-me ao desenvolvimento de ecossistemas para solopreneurs e ferramentas de análise de dados.
+Desenvolvedor focado em construir **produtos escaláveis**, e sistemas web de alta performance. Busco constantemente aplicar as melhores práticas de **System Design**, código limpo e soluções voltadas para o mercado.
 
 ---
 
@@ -54,8 +52,8 @@ Atualmente, dedico-me ao desenvolvimento de ecossistemas para solopreneurs e fer
 ## 📊 GitHub Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hiago-barreiros&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiago-barreiros&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma.vercel.app/api?username=hiago-barreiros&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=hiago-barreiros&layout=compact&theme=tokyonight" />
 </p>
 
 ---
