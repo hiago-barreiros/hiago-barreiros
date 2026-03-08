@@ -52,8 +52,7 @@ Desenvolvedor focado em construir **produtos escaláveis**, e sistemas web de al
 ## 📊 GitHub Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-sigma.vercel.app/api?username=hiago-barreiros&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=hiago-barreiros&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://metrics.lecoq.io/hiago-barreiros?base=header,repositories,metadata&base.indepth=false&theme=tokyonight&config.timezone=America/Sao_Paulo" />
 </p>
 
 ---
