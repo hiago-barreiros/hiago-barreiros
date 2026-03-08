@@ -9,9 +9,6 @@ Desenvolvedor focado em construir **produtos escaláveis**, e sistemas web de al
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/hiago-barreiros">
-    <img src="https://img.shields.io/badge/GitHub-hiago--barreiros?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://instagram.com/hiago.barreiros">
     <img src="https://img.shields.io/badge/Instagram-@hiago--barreiros?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
