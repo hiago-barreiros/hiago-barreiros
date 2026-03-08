@@ -41,7 +41,8 @@ Desenvolvedor focado em construir **produtos escaláveis**, e sistemas web de al
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Ferramentas & Arquitetura
+### Ferramentas, OS & Arquitetura
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-005893?style=for-the-badge&logo=diagrams.net&logoColor=white)
