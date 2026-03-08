@@ -21,7 +21,6 @@ Desenvolvedor focado em construir **produtos escaláveis**, e sistemas web de al
 
 ## 🧠 O que eu faço
 
--   🏗️ **SaaS & Micro-SaaS**: Arquitetura e desenvolvimento completo de plataformas.
 -   🧩 **System Design**: Planejamento de sistemas modulares, escaláveis e eficientes.
 -   💳 **Pagamentos & Lógica de Negócios**: Integração de APIs financeiras e fluxos complexos.
 -   🤖 **Automações & Integrações**: Soluções para otimização de workflow e tratamento de dados.
@@ -47,13 +46,6 @@ Desenvolvedor focado em construir **produtos escaláveis**, e sistemas web de al
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-005893?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
----
-
-## 📊 GitHub Status
-
-<p align="left">
-  <img height="180" src="https://metrics.lecoq.io/hiago-barreiros?base=header,repositories,metadata&base.indepth=false&theme=tokyonight&config.timezone=America/Sao_Paulo" />
-</p>
 
 ---
 
